@@ -94,6 +94,6 @@ grails.plugins.springsecurity.userLookup.userDomainClassName = 'org.example.SecU
 grails.plugins.springsecurity.userLookup.authorityJoinClassName = 'org.example.SecUserSecRole'
 grails.plugins.springsecurity.authority.className = 'org.example.SecRole'
 
-facebook.applicationSecret='xxxx'
-facebook.applicationId='xxxx'
+facebook.applicationSecret='ca6cdbf267ff469af540550cb9ea12ab'
+facebook.applicationId='212886425420136'
 facebook.secure=true
